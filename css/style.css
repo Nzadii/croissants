@@ -5,3 +5,17 @@ body {
 body {
   text-align: center;
 }
+
+.full {
+  display: flex;
+  width: 100%;
+  margin: 0 -5;
+}
+
+footer {
+  display: inline-block;
+  unicode-bidi: isolate;
+}
+footer {
+  text-align: center;
+}
