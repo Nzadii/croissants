@@ -13,9 +13,9 @@ body {
 }
 
 footer {
-  display: inline-block;
-  unicode-bidi: isolate;
-}
-footer {
   text-align: center;
+}
+footer a {
+  margin: 0 10px;
+  color: green;
 }
